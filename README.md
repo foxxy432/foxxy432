@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @foxxy432
+# 👋 Hi
 
 ## [Please Give Up Github](https://giveupgithub.org)
 
